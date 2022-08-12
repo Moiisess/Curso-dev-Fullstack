@@ -1,0 +1,48 @@
+body {
+background-color: #dfdfdf ;
+font-family: 'PT Sans Narrow', sans-serif;
+color: rgb(34, 34, 34);
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.perfil{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto-principal{
+width: 200px;
+border:2px solid #ffffff;
+border-radius: 50%;
+margin: 30px 30px 0 ;
+box-shadow: 0px 0px 20px #403e3e ;
+}
+
+h1{
+    margin-bottom: 10px;
+    letter-spacing: -1px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    margin-top: 0px;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.face{
+    margin: 0px 15px 0px ;
+}
+
+.links{
+    text-decoration: none;
+}
+
+.icone{
+width: 25px;
+}

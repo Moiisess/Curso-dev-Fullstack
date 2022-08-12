@@ -1,0 +1,69 @@
+body{
+    background-color: #ccc4c4;
+    font-family: 'Raleway', sans-serif;
+    color: #2c2a2a;
+    margin: 0;
+}
+
+.foto-principal{
+    width: 200px;
+    border: 3px solid #000000;
+    border-radius: 50%;
+    padding: 2px;
+    box-shadow: 10px 10px 15px black;
+}
+
+.container{
+    width:900px ;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 0;
+
+}
+
+h2{
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+h4{
+    margin-bottom: 0;
+}
+
+h5{
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+p{
+    margin-top: 0%;
+}
+
+.foto{
+    text-align: center;
+}
+
+.icone{
+    width: 30px;
+}
+
+.trabalhos{
+    padding: 0;
+    padding-left: 25px;
+    list-style:none ;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.final{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 5px 0;
+}
